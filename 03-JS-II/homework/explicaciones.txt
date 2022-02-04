@@ -1,0 +1,4 @@
+for: es un bucle, el cual nos permite bajo ciertas condiciones, repetir una o varias acciones (dentro de éste) las veces que acordemos.
+&&: el and o y, lo usamos cuando queremos que se cumplan mas de 1 condicion al mismo tiempo. 
+||: el or u o, lo usamos cuando queremos que se cumpla una condion u otra o n cantidad de condiciones tengamos, pero solo necesitamos que se cumpla una de las tantas.
+!: el not o no, generalmente se usa con el == y se utiliza para determinar que "algo" es distinto de otra cosa.

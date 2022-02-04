@@ -1,0 +1,6 @@
+-Variables: una variable es "algo" a lo que podemos asignarle o darle, un valor de distintos tipos (int, string, boolean, etc)
+-Strings: un string es una cadena de texto, como un nombre.
+-Funciones(argumentos, return): las funciones son un facilitador, el cual realiza "algo" ya predeterminado (codeado) y a estas les pasamos argumentos como numeros, letras, etc,
+que le sirven como material a la hora de realizar la operacion a la que se dedique. El return devuelve el valor o producto final, que genera la funcion.
+-Declaraciones If: if o si en español, es un condicional, el cual se usa para determinar si se cumple o no una condicion y en caso de que si, devuelve "algo" y en caso de no cumplirse la condicion, devuelve otra cosa.
+-Valores booleanos(true, false): son valores que indican si algo es verdadero o falso.
