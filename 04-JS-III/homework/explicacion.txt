@@ -1,0 +1,1 @@
+Array -> un array es como una lista, donde podemos guardar elementos de distintos tipos (de texto, numerico, etc)
